@@ -1,0 +1,90 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\alex\OneDrive\Documents\GIT\System-Status-Board\System-Status-Board\PCB\LCD_Board\LCD_Board\Copy of LCD_Board.PcbDoc
+Date     : 1/30/2020
+Time     : 1:34:33 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad S5-B(6073.582mil,2191.496mil) on Top Layer And Pad S4-B(6693.582mil,2196.496mil) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=150mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (1474mil,2179mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (1536mil,3701mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (2710mil,3328mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3560mil,4082.048mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3584mil,2179mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3687.362mil,4260mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3699mil,4510.268mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3710mil,4588mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3720mil,4048mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3726.732mil,3886mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3737mil,4361mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3757mil,4330mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3762mil,4542mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3768mil,4145mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3785.788mil,3680mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3831.472mil,3853mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3848mil,4077mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3882mil,4725mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3946mil,4244mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (3954mil,4084mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (4116mil,4272mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (4135mil,4160.788mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (5804mil,4010mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (5848mil,4124mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (5895mil,4060mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (6444mil,2780mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+   Violation between Minimum Annular Ring: (6mil < 7mil) Via (6548mil,3564mil) from Top Layer to Bottom Layer (Annular Ring=6mil) On (Top Layer)
+Rule Violations :27
+
+Processing Rule : Hole Size Constraint (Min=10mil) (Max=150mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "DEV" (3835mil,4210mil) on Top Overlay And Text "PN" (3835mil,4210mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "DEV" (3835mil,4210mil) on Top Overlay And Text "TOL" (3835mil,4210mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "DEV" (3835mil,4210mil) on Top Overlay And Text "VAL" (3835mil,4210mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (5.749mil < 10mil) Between Text "On" (3022.087mil,4646.378mil) on Top Overlay And Track (3006.338mil,4603.07mil)(3006.338mil,4815.67mil) on Top Overlay Silk Text to Silk Clearance [5.749mil]
+   Violation between Silk To Silk Clearance Constraint: (6.874mil < 10mil) Between Text "P1" (4535mil,4105mil) on Top Overlay And Track (4420mil,4100mil)(4520mil,4100mil) on Top Overlay Silk Text to Silk Clearance [6.874mil]
+   Violation between Silk To Silk Clearance Constraint: (6.063mil < 10mil) Between Text "P1" (4535mil,4105mil) on Top Overlay And Track (4520mil,4100mil)(4520mil,4600mil) on Top Overlay Silk Text to Silk Clearance [6.063mil]
+   Violation between Silk To Silk Clearance Constraint: (6.063mil < 10mil) Between Text "P2" (4535mil,4630mil) on Top Overlay And Track (4420mil,4630mil)(4520mil,4630mil) on Top Overlay Silk Text to Silk Clearance [6.063mil]
+   Violation between Silk To Silk Clearance Constraint: (6.063mil < 10mil) Between Text "P2" (4535mil,4630mil) on Top Overlay And Track (4520mil,4630mil)(4520mil,4830mil) on Top Overlay Silk Text to Silk Clearance [6.063mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "PN" (3835mil,4210mil) on Top Overlay And Text "TOL" (3835mil,4210mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "PN" (3835mil,4210mil) on Top Overlay And Text "VAL" (3835mil,4210mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "TOL" (3835mil,4210mil) on Top Overlay And Text "VAL" (3835mil,4210mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :11
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 39
+Waived Violations : 0
+Time Elapsed        : 00:00:01
